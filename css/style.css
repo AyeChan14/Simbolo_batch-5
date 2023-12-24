@@ -1,0 +1,19 @@
+.Personal{
+    position: relative;
+    top: 250px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: antiquewhite;
+}
+h1:hover{
+    color: chocolate;
+}
+hr{
+    height: 10px;
+}
+.col-md-4{
+    border-radius: 10px;
+}
+.col-md-4>p .Line{
+    color: aliceblue;
+    
+ }
