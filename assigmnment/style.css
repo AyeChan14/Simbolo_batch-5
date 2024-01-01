@@ -1,0 +1,15 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+thead>tr>th{
+    color: chocolate;
+}
+h1{
+    color: chocolate;
+}
+ol li{
+    color: palevioletred;
+}
+ul li{
+    color: blueviolet;
+}
